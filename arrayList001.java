@@ -33,7 +33,7 @@ public class arrayList001 {
 			System.out.println("Please bring zebra from Africa");
 		}
 		
-		animal.set(3, "Horse");// add new and remove old (replace)
+		animal.set(3, "Horse");// add a new and remove old (replace)
 		System.out.println(animal);
 		
 		animal.remove("Cow");// remove element
