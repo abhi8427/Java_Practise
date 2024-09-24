@@ -12,6 +12,7 @@ public class arrayList001 {
 		animal.add("Cow");
 		animal.add("Dog");
 		animal.add("Elephant");
+		animal.add("Tiger");
 		
 		System.out.println(animal); //Print the array list
 		
