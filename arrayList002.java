@@ -40,6 +40,9 @@ public class arrayList002 {
 		
 		student.add("Shweta");
 		System.out.println("The new list of students "+student);
+		
+		student.add(3, "Sachin");
+		System.out.println("The new list of the students " +student);
 	}
 
 }
