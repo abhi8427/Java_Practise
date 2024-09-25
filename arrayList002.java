@@ -37,6 +37,9 @@ public class arrayList002 {
 		
 		student.remove("Akshita");
 		System.out.println("The new list of students " +student);
+		
+		student.add("Shweta");
+		System.out.println("The new list of students "+student);
 	}
 
 }
