@@ -30,10 +30,10 @@ public class arrayList003 {
 			System.out.println("You have never travel to abroad");
 		}
 		
-		//city.add(1, "Lucknow");
-		//city.add(2, "Allahabad");
+		city.add(1, "Lucknow");
+		city.add(2, "Allahabad");
 		
-		//System.out.println("The new list of the cities "+city);
+		System.out.println("The new list of the cities "+city);
 		
 		//city.set(5, "Saskatchewan");
 		//System.out.println("The new list of cities " +city);
