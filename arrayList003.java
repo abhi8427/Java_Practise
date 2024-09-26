@@ -38,8 +38,8 @@ public class arrayList003 {
 		city.set(5, "Saskatchewan");
 		System.out.println("The new list of cities " +city);
 		
-		//city.remove("Delhi");
-		//System.out.println("The updated city are "+city);
+		city.remove("Delhi");
+		System.out.println("The updated city are "+city);
 	}
 
 }
