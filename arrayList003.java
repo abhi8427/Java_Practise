@@ -18,11 +18,11 @@ public class arrayList003 {
 		System.out.println("The total cities are "+size);
 		System.out.println("The number of cities I have lived "+city);
 		
-		/*if(city.isEmpty()){
+		if(city.isEmpty()){
 			System.out.println("There is no city");
 		}else{
 			System.out.println("There are cities avilable");
-		}*/
+		}
 		
 		/*if(city.contains("Brampton")){
 			System.out.println("You also lived in CaNADa");
