@@ -24,11 +24,11 @@ public class arrayList003 {
 			System.out.println("There are cities avilable");
 		}
 		
-		/*if(city.contains("Brampton")){
+		if(city.contains("Brampton")){
 			System.out.println("You also lived in CaNADa");
 		}else{
 			System.out.println("You have never travel to abroad");
-		}*/
+		}
 		
 		//city.add(1, "Lucknow");
 		//city.add(2, "Allahabad");
