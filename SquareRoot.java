@@ -9,7 +9,7 @@ public class SquareRoot {
 		
 		y = Math.sqrt(x);
 		System.out.println(y);
-		z = Math.random();
+		z = Math.random()*100;
 		System.out.println(z);
 	}
 
